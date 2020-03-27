@@ -7,3 +7,6 @@
 [submodule "Drivers/thermostat_sm"]
 	path = Drivers/thermostat_sm
 	url = https://github.com/bazhen-paseka/thermostat_sm.git
+[submodule "Drivers/temp_ds18b20_sm"]
+	path = Drivers/temp_ds18b20_sm
+	url = https://github.com/bazhen-paseka/temp_ds18b20_sm.git
