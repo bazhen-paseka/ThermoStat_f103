@@ -1,0 +1,9 @@
+[submodule "Drivers/i2c_TechMaker_sm"]
+	path = Drivers/i2c_TechMaker_sm
+	url = https://github.com/bazhen-paseka/i2c_TechMaker_sm.git
+[submodule "Drivers/lcd1602_fc113_sm"]
+	path = Drivers/lcd1602_fc113_sm
+	url = https://github.com/bazhen-paseka/lcd1602_fc113_sm.git
+[submodule "Drivers/thermostat_sm"]
+	path = Drivers/thermostat_sm
+	url = https://github.com/bazhen-paseka/thermostat_sm.git
