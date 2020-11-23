@@ -10,3 +10,6 @@
 [submodule "Drivers/temp_ds18b20_sm"]
 	path = Drivers/temp_ds18b20_sm
 	url = https://github.com/bazhen-paseka/temp_ds18b20_sm.git
+[submodule "Drivers/ds3231_sm"]
+	path = Drivers/ds3231_sm
+	url = https://github.com/bazhen-paseka/ds3231_sm.git
