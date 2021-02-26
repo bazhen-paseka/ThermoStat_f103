@@ -3,7 +3,7 @@
 #define THERMOSTAT_CONFIG_H_INCLUDED
 //******************************************************************************************
 
-	#define SOFT_VERSION			150
+	#define SOFT_VERSION			160
 	#define ADR_I2C_FC113 			0x27
 
 	#define	TEMP_MAX				1700
